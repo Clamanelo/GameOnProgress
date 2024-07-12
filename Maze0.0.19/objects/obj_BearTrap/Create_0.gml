@@ -1,0 +1,11 @@
+randomize();
+image_speed=0;
+image_index=0;
+image_angle=random(360);
+Activated=false;
+alpha=0;
+imageIndex=0;
+angle=0;
+delay=0;
+timePerAudio=50;
+whatGot=noone;

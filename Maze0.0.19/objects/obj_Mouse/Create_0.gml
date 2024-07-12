@@ -1,0 +1,9 @@
+window_set_cursor(cr_none);
+cursor_sprite=noone;
+image_index=0;
+image_speed=0;
+moving=false;
+timerMoving=0;
+last_x=x;
+last_y=y;
+alarm[0]=30;

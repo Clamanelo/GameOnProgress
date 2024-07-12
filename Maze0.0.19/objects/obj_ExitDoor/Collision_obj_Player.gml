@@ -1,0 +1,1 @@
+if(image_index==4)room_goto(FoundMe);

@@ -1,0 +1,2 @@
+start=false;
+collision=false;

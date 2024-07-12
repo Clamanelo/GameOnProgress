@@ -1,0 +1,1 @@
+if(obj_Eatter.is_debug==true)draw_self();

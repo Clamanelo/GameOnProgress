@@ -1,0 +1,9 @@
+draw_self();
+if(is_debug){
+	draw_set_color(c_white);
+	draw_text(x,y+50,step);
+	if(instance_exists(obj_PointEatter))draw_line(x,y,obj_PointEatter.x,obj_PointEatter.y);
+	if(instance_exists(obj_PointEatter))draw_line(obj_Player.x,obj_Player.y,obj_PointEatter.x,obj_PointEatter.y);
+	draw_set_color(c_red);
+	if(instance_exists(obj_PointEatter))draw_line(obj_Player.x,obj_Player.y,x,y);
+}

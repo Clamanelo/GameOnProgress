@@ -1,0 +1,1 @@
+if(alpha==true)image_alpha=lerp(image_alpha,1,.1) else image_alpha=lerp(image_alpha,0,.03);

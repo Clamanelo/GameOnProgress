@@ -1,0 +1,1 @@
+if((distance_to_object(obj_wall)<55)or(place_meeting(x,y,Par_Collision)))instance_destroy();

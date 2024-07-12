@@ -1,0 +1,1 @@
+image_angle=obj_Eatter.image_angle;

@@ -1,0 +1,1 @@
+if(room!=StartScreen && room!=Die)global.pause = !global.pause
